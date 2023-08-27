@@ -1,2 +1,2 @@
 # cypress-example
-ui automation framework
+ui automation framework learning
